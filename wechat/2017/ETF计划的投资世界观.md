@@ -150,3 +150,5 @@ ETF计划，会通过一整套逻辑清楚、数据完整、历史表现出色�
 
 
 三观相同的各位，晚安。
+
+[查看原文](https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408653&idx=1&sn=709fa4aaeb02b1b999ee23b871f035f3&chksm=8d226f62ba55e674bf0cf647bc4c7f05fc3085e277911af9f49549df266fd2fa0e3b344fab87&mpshare=1&scene=1&srcid=1220Qw8QiMq80DlygPlzv2fB&rd2werd=1#wechat_redirect)
