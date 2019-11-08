@@ -21,8 +21,12 @@
 
 ## 计划详情
 
-* [长赢指数投资计划–150份](https://qieman.com/longwin/detail/LONG_WIN)
-* [长赢指数投资计划–S定投](https://qieman.com/longwin/detail/LONG_WIN_S)
+* [长赢指数投资计划–150份（且慢）](https://qieman.com/longwin/detail/LONG_WIN)
+* [长赢指数投资计划–S定投（且慢）](https://qieman.com/longwin/detail/LONG_WIN_S)
+
+## 工具
+
+* [每日估值（且慢）](https://qieman.com/idx-eval)
 
 ## [2019微博](weibo/2019.md)
 
