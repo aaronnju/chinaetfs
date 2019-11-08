@@ -19,6 +19,11 @@
 * [波段策略.网格之二：网格策略基础/1.0版](./wechat/2019/20190506.md)
 * [波段策略.网格之三：网格策略进阶/2.0版](./wechat/2019/20190526.md)
 
+## 计划详情
+
+* [长赢指数投资计划–150份](https://qieman.com/longwin/detail/LONG_WIN)
+* [长赢指数投资计划–S定投](https://qieman.com/longwin/detail/LONG_WIN_S)
+
 ## [2019微博](weibo/2019.md)
 
 ## [微信公众号](wechat/wechat.md)
